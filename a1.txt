@@ -4,3 +4,4 @@
 목요일
 금요일
 토요일 develop branch
+일요일 main branch
